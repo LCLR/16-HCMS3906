@@ -1,0 +1,45 @@
+..\obj\mx6921.o: ..\HARDWARE\src\MX6921.c
+..\obj\mx6921.o: ..\HARDWARE\inc\MX6921.h
+..\obj\mx6921.o: ..\SYSTEM\sys\sys.h
+..\obj\mx6921.o: ..\USER\stm32f10x.h
+..\obj\mx6921.o: ..\CORE\core_cm3.h
+..\obj\mx6921.o: D:\Program Files (x86)\Study\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mx6921.o: ..\USER\system_stm32f10x.h
+..\obj\mx6921.o: ..\USER\stm32f10x_conf.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\mx6921.o: ..\USER\stm32f10x.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\obj\mx6921.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\mx6921.o: ..\SYSTEM\delay\delay.h
+..\obj\mx6921.o: ..\HARDWARE\inc\ds3231.h
+..\obj\mx6921.o: ..\HARDWARE\inc\config.h
+..\obj\mx6921.o: D:\Program Files (x86)\Study\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\mx6921.o: ..\SYSTEM\usart\usart.h
+..\obj\mx6921.o: D:\Program Files (x86)\Study\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\mx6921.o: ..\HARDWARE\inc\clock_param.h
+..\obj\mx6921.o: ..\HARDWARE\inc\systemTask.h
+..\obj\mx6921.o: ..\HARDWARE\inc\task_param.h
+..\obj\mx6921.o: ..\HARDWARE\inc\timer.h
+..\obj\mx6921.o: ..\HARDWARE\inc\systemTask.h
+..\obj\mx6921.o: ..\HARDWARE\inc\infraRemote.h
+..\obj\mx6921.o: ..\HARDWARE\inc\beep.h

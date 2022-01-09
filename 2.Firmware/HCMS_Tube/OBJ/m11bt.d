@@ -1,0 +1,34 @@
+..\obj\m11bt.o: ..\HARDWARE\src\M11BT.c
+..\obj\m11bt.o: ..\HARDWARE\inc\M11BT.h
+..\obj\m11bt.o: ..\SYSTEM\sys\sys.h
+..\obj\m11bt.o: ..\USER\stm32f10x.h
+..\obj\m11bt.o: ..\CORE\core_cm3.h
+..\obj\m11bt.o: D:\Programfiles X86\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\m11bt.o: ..\USER\system_stm32f10x.h
+..\obj\m11bt.o: ..\USER\stm32f10x_conf.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\m11bt.o: ..\USER\stm32f10x.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\obj\m11bt.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\m11bt.o: D:\Programfiles X86\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\m11bt.o: ..\SYSTEM\delay\delay.h
